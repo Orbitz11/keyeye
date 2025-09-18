@@ -7,7 +7,14 @@
 
 ```bash
 git clone https://github.com/Orbitz11/keyeye.git
+```
+```bash
 cd keyeye
+```
+```bash
+cd keyeye
+```
+```bash
 pip install pynput
 ```
 ## 🚀 Usage
