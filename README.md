@@ -30,6 +30,13 @@ cd keyeye
 cd keyeye
 ```
 ```bash
+sudo apt install python3-venv
+mkdir 'any name'
+cd 'any name'
+python3 -m venv venv
+source venv/bin/activate
+```
+```bash
 pip install pynput
 ```
 ## 🚀 Usage
